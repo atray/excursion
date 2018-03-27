@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana;
+}
+
+.banner {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  }
+
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+}
+
+
+
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
